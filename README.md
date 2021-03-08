@@ -32,7 +32,7 @@ I have used axios for routing in React, Install axios in the console
 ```sh
 $ npm install axios
 ```
-I have used CORS for error handeling:
+I have used CORS for providing a Express middleware
 ```sh
 $ npm install cors
 ```
