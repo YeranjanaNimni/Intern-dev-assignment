@@ -4,11 +4,14 @@ Micro project (React & Node) Intern Developer
 
 This project is a supermarket network's management dashboard to add their users and manage their details.
 
-Getting Started
+#Getting Started
+
 Node.js need to installed on the local machine
 You need to have installed an IDE to open the code
 You need to have any internet browser installed on your machine
-Prerequisites
+
+#Prerequisites
+
 Node.js need to installed on the local machine Download NodeJS
 You need to have installed an IDE to open the code Download VS code
 You need to have installed Reactjs Documentation for installing React.js
