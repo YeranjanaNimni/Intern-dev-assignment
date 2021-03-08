@@ -21,24 +21,26 @@ To initialize npm package
 $ npm init -y
 ```
 To install express js in the console:
-
+```sh
 $ npm install express --save
-
+```
 I have us my sql as my data base
-
+```sh
 $ npm install my sql
-
+```
 I have used axios for routing in React, Install axios in the console
-
+```sh
 $ npm install axios
-
+```
 I have used CORS for error handeling:
+```sh
 $ npm install cors
-
+```
 I have user bootstrap and react-bootstrap to style
+```sh
 $ npm install bootstrap
 $ npm install react-bootstrap
-
+```
 Running the tests
 SQL database was used to get data to the application and check reading data from database and display, edit the data and send to database, delete data and create new data and store in the database with sample data that created by us.
 
