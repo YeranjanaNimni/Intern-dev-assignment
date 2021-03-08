@@ -1,0 +1,152 @@
+
+/* --------------- Login Component ---------------*/
+.login-box{
+    width: 30%;
+    margin-left: 30%;
+    height: 450px;
+    background-color: rgb(200, 200, 204);
+    margin-top: 3em;
+}
+
+.login-head{
+    background-color: black;
+    color: white;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-align: center;
+    font-size: 1em;
+    padding-top: 10px;
+}
+
+.login-form{
+    align-items: center;
+}
+
+
+.mb-3{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 8em;
+}
+
+.btn-secondary{
+    margin-left: 42%;
+    margin-top: 2em;
+}
+
+/* ------------------------ Dashboard Component ---------------------------- */
+
+.dashboard-background{
+     background-color: rgb(200, 200, 204);
+    margin: 1%;
+    width: 98%;
+    height: 800px;
+}
+
+.dashboard-head{
+    background-color: black;
+    color: white;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 2em;
+    padding-top: 8px;
+}
+
+.admin-users{
+    margin-top: 3em;
+    margin-left: 10%;
+}
+
+
+.nav-btn{
+    background-color:rgb(200, 200, 204);
+    border: 1px solid rgb(226, 222, 222) ;
+    color: black;
+    width: 15%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 1%;
+    height: 30px;
+    margin-right: 35px;
+    border-radius: 3px;
+
+ 
+}
+
+
+/* ---------------------------- User List Component ------------------- */
+
+.table{
+    width: 90%;
+}
+
+.heading{
+    font-size: 1em;
+}
+
+.head-row{
+    background-color: black;
+    color: white;
+}
+
+.action{
+    text-align: center;
+}
+
+.edit{
+    background-color: #1267e6; 
+    border: none;
+    color: white;
+    height: 35px;
+    width: 35%;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1%;
+}
+
+.delete{
+    background-color: red; 
+    border: none;
+    color: white;
+    height: 35px;
+    width: 35%;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1%;
+    margin-left: 1.5em;
+    
+}
+.delete:hover{
+    background-color: red; 
+}
+
+/* ----------------------- Add User Component --------------------------- */
+
+.addUserBackground{
+    background-color: rgb(200, 200, 204);
+    margin: 1%;
+    width: 80%;
+    height: 600px;
+}
+
+.form{
+    width: 40%;
+    margin-left: 25%;
+    padding: 2em;
+    background-color: white;
+    border: 5px solid rgb(199, 199, 201);
+}
