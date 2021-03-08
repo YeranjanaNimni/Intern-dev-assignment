@@ -28,7 +28,14 @@ function AddUser() {
 
           })
             .then(response => {
-                console.log(response)
+                console.log(response);
+                setData({
+                    username:"",
+                    email:"",
+                   id : "",
+                   password : "",
+                   contact_number:""
+                })
             })
             .catch(err=>{
                 console.log(err)
